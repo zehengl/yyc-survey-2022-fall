@@ -1,0 +1,45 @@
+site_name: yyc-survey-2022-fall
+nav:
+  - Home: index.md
+theme:
+  name: material
+  favicon: https://cdn3.iconfinder.com/data/icons/survey-color/512/Survey_rating_rate-34-512.png
+  logo: https://cdn3.iconfinder.com/data/icons/survey-color/512/Survey_rating_rate-34-512.png
+  font:
+    text: Roboto
+  palette:
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to light mode
+  features:
+    - header.autohide
+    - navigation.top
+    - navigation.footer
+plugins:
+  - search
+  - tags
+  - glightbox:
+      auto_caption: true
+  - minify:
+      minify_html: true
+  - neoteroi.contribs
+markdown_extensions:
+  - attr_list
+  - md_in_html
+extra_css:
+  - css/neoteroi-mkdocs.css
