@@ -37,7 +37,10 @@ plugins:
       auto_caption: true
   - minify:
       minify_html: true
-  - neoteroi.contribs
+  - neoteroi.contribs:
+      contributors:
+        - email: imzehengl@gmail.com
+          image: https://avatars.githubusercontent.com/u/6238966?v=4
 markdown_extensions:
   - attr_list
   - md_in_html

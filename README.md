@@ -26,3 +26,10 @@ A study on the Fall Survey of Calgarians (2022) data
     mkdocs serve
 
 ## Credits
+
+- [Logo][1] by [Rudez Studio][2]
+- [Fall Survey of Calgarians (2022)][3]
+
+[1]: https://www.iconfinder.com/icons/3790654/graph_rate_rating_smile_survey_icon
+[2]: https://www.iconfinder.com/Ruslancorel
+[3]: https://data.calgary.ca/Help-and-Information/Fall-Survey-of-Calgarians-2022-/5geu-ar8w
