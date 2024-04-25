@@ -46,3 +46,9 @@ markdown_extensions:
   - md_in_html
 extra_css:
   - css/neoteroi-mkdocs.css
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/zehengl
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/in/zehengl
