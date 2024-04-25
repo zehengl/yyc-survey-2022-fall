@@ -5,6 +5,7 @@
 # yyc-survey-2022-fall
 
 ![coding_style](https://img.shields.io/badge/code%20style-black-000000.svg)
+[![GitHub Pages](https://github.com/zehengl/yyc-survey-2022-fall/actions/workflows/gh-deploy.yml/badge.svg)](https://github.com/zehengl/yyc-survey-2022-fall/actions/workflows/gh-deploy.yml)
 
 A study on the Fall Survey of Calgarians (2022) data
 
