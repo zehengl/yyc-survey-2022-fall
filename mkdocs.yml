@@ -3,8 +3,6 @@ nav:
   - Home: index.md
 theme:
   name: material
-  favicon: https://cdn3.iconfinder.com/data/icons/survey-color/512/Survey_rating_rate-34-512.png
-  logo: https://cdn3.iconfinder.com/data/icons/survey-color/512/Survey_rating_rate-34-512.png
   font:
     text: Roboto
   palette:
