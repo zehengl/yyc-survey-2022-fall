@@ -1,5 +1,5 @@
 openpyxl==3.1.5
 pandas==3.0.6
-python-slugify==9.1.0
+python-slugify==9.1.2
 seaborn==0.13.2
 tqdm==4.70.1
